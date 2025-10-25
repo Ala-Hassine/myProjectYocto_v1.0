@@ -1,0 +1,6 @@
+.vscode/
+build/
+*-venv/
+layers/
+Requirement.txt
+.kas_shell_history
