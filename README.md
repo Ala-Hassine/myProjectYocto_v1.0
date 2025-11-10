@@ -1,1 +1,1 @@
-# myProjectYocto_v1.0
+# Advanced-Project-Yocto
